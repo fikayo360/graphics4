@@ -53,7 +53,7 @@ export const Hero = () => {
              <div className={`nav ${hasScrolled ? 'scrolled' : ''}`}>
                      <div className='hB'>
                         <h1 id='nLeft' className='txtG'>
-                            Jaden
+                            chinedu
                         </h1>
                     </div>
                         <ul>
