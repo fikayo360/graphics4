@@ -52,7 +52,6 @@ export const Hero = () => {
         <section id="hero" ref={container}>
              <div className={`nav ${hasScrolled ? 'scrolled' : ''}`}>
                      <div className='hB'>
-                        <img src='./grph.png'/>
                         <h1 id='nLeft' className='txtG'>
                             Jaden
                         </h1>
@@ -72,7 +71,7 @@ export const Hero = () => {
                       <div id='mobileNav'>
                       <div id='mbWrap' ref={ref}>
                           <div id='mbWrapH'>
-                              <h1>J<span className='txtG'>aden</span></h1>
+                              <h1>C<span className='txtG'>hinedu</span></h1>
                               <img  src='./close.png' onClick={toggleNav}/>
                            </div>
                            <div id='mbWrapB'>
@@ -91,7 +90,7 @@ export const Hero = () => {
               
 
             <div id='heroWrap'>
-                <h1 id='heroWraph1'>My name is Jaden and i am a <span className='txtG'>graphics designer</span> </h1>
+                <h1 id='heroWraph1'>My name is chinedu and i am a <span className='txtG'>graphics designer</span> </h1>
                 <h1 id='heroWraph2'>transforming your product ideas into clean and functional designs  </h1>
                 <div id='hBtns'>
                     <button><a href='#services'>my skills</a></button>
