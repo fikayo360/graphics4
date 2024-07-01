@@ -132,7 +132,7 @@ export const Hero =  () => {
                 </nav>
             </header>
             <main className='main'>
-                <h2>Splendid wedding photography</h2>
+                <h2>Splendid <span className='txtG'>wedding</span> photography</h2>
                 <p>
                 Discover the art of storytelling through the lens. We transform fleeting moments into timeless memories. 
                 Whether it's the intricate details of a wedding, the candid joy of a family reunion, or the serene beauty of nature, our passion for 

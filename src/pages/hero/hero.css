@@ -12,6 +12,14 @@
     color:hsl(240, 10%, 90%)
 }
 
+.txtG{
+    background:-webkit-linear-gradient(to right, #8e2de2, #4a00e0);
+    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    -webkit-background-clip: text;
+    color: transparent;
+    display: inline-block;
+}
+
 #hHead{
     position: absolute;
     top: 1rem;
